@@ -1,0 +1,46 @@
+.btn.btn-primary1 {
+  outline: none !important;
+  width: 45px;
+  color: #2a2a2a;
+  text-decoration: none;
+  background-color: transparent;
+  text-align: center;
+  padding: 0.25rem 0.5rem;
+}
+.imgFluid {
+  max-height: 35%;
+  width: 100%;
+  object-fit: cover;
+  padding: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.description {
+  overflow: auto;
+  height: 175px;
+  padding: 10px;
+}
+.adminOptions {
+  padding: 15px;
+}
+.cardBody {
+  height: 350px;
+  padding: 10px;
+}
+.blogTitle {
+  padding: 5px;
+}
+.fa-1x.mr-2.fas.fa-edit.pull-right {
+  height: 5px;
+  width: 5px;
+}
+.fa-2x.mr-2.fas.fa-trash-alt {
+  height: 10px;
+  width: 10px;
+  color: rgb(64, 138, 223);
+}
+
+button:hover {
+  background-color: #2f80e7;
+}
